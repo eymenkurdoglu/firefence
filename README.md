@@ -1,0 +1,1 @@
+This is the final project of the "Advanced Network Security" course at NYU Tandon that I took in the Fall'12 semester. I decided to revisit and restart to project as a reference to learn basic packet capturing, multi-threading and string matching.
